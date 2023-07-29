@@ -1,0 +1,1 @@
+This is just a example to show how to use add <file name> or add . 
